@@ -1,0 +1,15 @@
+ /* OBRIGATÓRIO ";" NO FINAL DOS COMANDO NO CSS */
+ h1 {
+    color: red;
+    background-color: black;
+}
+
+P {
+color: blue;
+font-size: 20px;
+}
+
+button {
+background-color: green;
+border-color: darkgreen;
+}
